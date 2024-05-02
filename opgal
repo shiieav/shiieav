@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="opgalstyles.css">
+  </head>
+  <body>
+    <header class="header">
+      <h1>One Piece Gallery</h1>
+    </header>
+    <div class="gallery">
+      <a href="luffygal.html" style="text-decoration: none;">
+      <img src="luffy.jpg">
+      <a href="zorogal.html" style="text-decoration: none;">
+      <img src="zoro.jpg">
+      <a href="namigal.html" style="text-decoration: none;">
+      <img src="nami.jpg">
+      <a href="usoppgal.html" style="text-decoration: none;">
+      <img src="usopp.jpg">
+      <a href="sanjigal.html" style="text-decoration: none;">
+      <img src="sanji.jpg">
+      <a href="choppergal.html" style="text-decoration: none;">
+      <img src="chopper.jpg">
+      <a href="robingal.html" style="text-decoration: none;">
+      <img src="robin.jpg">
+      <a href="frankygal.html" style="text-decoration: none;">
+      <img src="franky.jpg">
+      <a href="brookgal.html" style="text-decoration: none;">
+      <img src="brook.jpg">
+    </div>
+  </body>
+</html>
